@@ -37,8 +37,8 @@ public class Sorter {
     }
 
     public static void sort(int[] array) {
-        // Calling the selectionSort method to sort the array
-        selectionSort(array);
+
+        insertionSort(array);
     }
 
 }
