@@ -40,13 +40,10 @@ public class Sorter {
     public static void sortWithInsertionSort(int[] array) {
         insertionSort(array);
     }
-
-<<<<<<< HEAD
+    
     // Sort using selection sort
     public static void sortWithSelectionSort(int[] array) {
         selectionSort(array);
     }
 
-=======
->>>>>>> 67a9dd24cb4bfc099c59e15db2c8dc63a1f6c433
 }
