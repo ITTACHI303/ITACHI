@@ -36,5 +36,9 @@ public class Sorter {
         }
     }
 
-    // You can add other methods and a main function here for testing.
+    public static void sort(int[] array) {
+        // Calling the selectionSort method to sort the array
+        selectionSort(array);
+    }
+
 }
