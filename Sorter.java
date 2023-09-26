@@ -36,8 +36,8 @@ public class Sorter {
         }
     }
 
-    public static void sort(int[] array) {
-
+    // Sort using insertion sort
+    public static void sortWithInsertionSort(int[] array) {
         insertionSort(array);
     }
 
